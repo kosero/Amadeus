@@ -1,0 +1,6 @@
+{
+    "GEMINI_API": "",
+    "USERNAME": "",
+    "MAX_HISTORY": 10,
+    "HISTORY_FILE": "history.json"
+}
